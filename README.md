@@ -1,0 +1,2 @@
+# PentemindApp
+Angular
